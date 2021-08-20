@@ -1,0 +1,12 @@
+GET http://localhost:8080
+
+###
+
+POST http://localhost:8080/add/accounts/asfdasdf/fasdfasd/fasdfasdf
+Content-Type: "application/json"
+
+
+{
+    "title":"A POST TO ETIMATIA",
+    "body": "KAI"
+}
